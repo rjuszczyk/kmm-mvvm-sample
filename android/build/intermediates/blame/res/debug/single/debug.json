@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/res/merged/debug/navigation_app_navigation.xml.flat",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/navigation/app_navigation.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/res/merged/debug/layout_row_some_item.xml.flat",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/row_some_item.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/res/merged/debug/layout_fragment_feature2.xml.flat",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/fragment_feature2.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/res/merged/debug/layout_fragment_feature1.xml.flat",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/fragment_feature1.xml"
+    }
+]

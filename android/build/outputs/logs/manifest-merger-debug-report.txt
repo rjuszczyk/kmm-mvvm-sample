@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7732b0a23315e305d2c238689fe1791/viewbinding-4.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8a5207d05d162b7fe913e82a15b17739/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/018a056e75d33edf7e0d554302475b53/navigation-ui-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [:shared] /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9a2601aa7823e27f9854682840376ac8/android-driver-1.4.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/acc5349f2d038d495ad047a625e0e6a1/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2d2d813ab38c75817acdddf073bf93d8/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/346150f9fd6b5629966b5e8351181359/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7c01541e40f03b2df6e447aeff3933f/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c8afa7f7014e6900a41650f46cc32d91/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:0.6.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8be8035ad0cc393ff4adbdf0fc908263/multiplatform-settings-debug/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/7a10baabb606771f6b52b884a55665ea/navigation-common-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/405db9be8331d7a10943053922ebcc75/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4e6cfcbb2bc4c56339a38aef67b613ae/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4bd784e78bdf446d58d089f66627c5b9/navigation-ui-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/79ffffcb410045962834de144d4cf86c/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c14721d8cbab0d2588e9abadb37032e9/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/21cf95bb3e932dbf336eb6a3824a26d7/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f3b90d56cf84a14f972365cdca227498/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/bdba99a3d90f2639494be7bd0f6f8fea/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/40536ead606c855524e0d6bd7612f2c9/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4230b3e1be710e038b01cd1ff24f2ffd/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f49fcc87b079857c4805c87828f9c1de/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3208cbc2238fceb9e06355aabc71ea6d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2ec76d33eeb1cc90dc4c34b60c1cd58a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/067ebbd2f948752287861f6e0e517c45/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/939450ca25ab8bed90576559dc7f2061/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f47a14935b31f02d963434435af15b03/navigation-fragment-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1a2e4c9eacd279e474d6f7c3e84dd752/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/862ad29a78882ef31a7ec5eabe4ecfc9/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/005032cd9f4d50e70c7400942ab16d5e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3a4fd7551b385343a7d759bbd3fd8a48/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/404a975948078a719f9c134b6fe81413/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1c9126e480e105e1f600b51e4b878134/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/32487eb5e9265b63778961606a1124f1/navigation-runtime-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9d1f8bdd58747925f2c4cde24236282/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8ef736f412be000347b4ccc94d223e0f/navigation-common-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d38f70ebdba1f7b11f693f69e5230300/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/6a4e0e4832ec13c72f3ed4d953e75e0e/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d4f53989506c726070d2909d4eb82f93/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9c2d33f29511a92d9ec1144c8197280/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/ae3688ddcf09e90543d21fae2dc25708/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/519ca7009dee33c636c5ec80eb0ddd16/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/86f2d91100cb02f177f88d964ae4cd7f/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/34e3f922332c9d7cefd7a72659a81cc7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/882f34b367c7b71c0c004dbd9a3f53c5/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/fd4b99719c218abc3105e0ec51b6ed07/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/673e09517efda950c78bf726af11a965/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/69eabccaac8105104fe0ef53a4a98dd0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e6ad7154708989d2f2affd4a121e6717/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/79ffffcb410045962834de144d4cf86c/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/79ffffcb410045962834de144d4cf86c/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c14721d8cbab0d2588e9abadb37032e9/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c14721d8cbab0d2588e9abadb37032e9/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f3b90d56cf84a14f972365cdca227498/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f3b90d56cf84a14f972365cdca227498/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/673e09517efda950c78bf726af11a965/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/673e09517efda950c78bf726af11a965/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:8:13-44
+	android:name
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:7:9-41
+activity#com.taboo.android.MainActivity
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:9:9-14:20
+	android:name
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7732b0a23315e305d2c238689fe1791/viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7732b0a23315e305d2c238689fe1791/viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8a5207d05d162b7fe913e82a15b17739/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8a5207d05d162b7fe913e82a15b17739/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/018a056e75d33edf7e0d554302475b53/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/018a056e75d33edf7e0d554302475b53/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:shared] /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9a2601aa7823e27f9854682840376ac8/android-driver-1.4.4/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.4.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9a2601aa7823e27f9854682840376ac8/android-driver-1.4.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/acc5349f2d038d495ad047a625e0e6a1/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/acc5349f2d038d495ad047a625e0e6a1/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2d2d813ab38c75817acdddf073bf93d8/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2d2d813ab38c75817acdddf073bf93d8/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/346150f9fd6b5629966b5e8351181359/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/346150f9fd6b5629966b5e8351181359/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7c01541e40f03b2df6e447aeff3933f/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d7c01541e40f03b2df6e447aeff3933f/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c8afa7f7014e6900a41650f46cc32d91/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c8afa7f7014e6900a41650f46cc32d91/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:0.6.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8be8035ad0cc393ff4adbdf0fc908263/multiplatform-settings-debug/AndroidManifest.xml:20:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:0.6.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8be8035ad0cc393ff4adbdf0fc908263/multiplatform-settings-debug/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/7a10baabb606771f6b52b884a55665ea/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/7a10baabb606771f6b52b884a55665ea/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/405db9be8331d7a10943053922ebcc75/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/405db9be8331d7a10943053922ebcc75/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4e6cfcbb2bc4c56339a38aef67b613ae/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4e6cfcbb2bc4c56339a38aef67b613ae/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4bd784e78bdf446d58d089f66627c5b9/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4bd784e78bdf446d58d089f66627c5b9/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/79ffffcb410045962834de144d4cf86c/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/79ffffcb410045962834de144d4cf86c/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c14721d8cbab0d2588e9abadb37032e9/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/c14721d8cbab0d2588e9abadb37032e9/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/21cf95bb3e932dbf336eb6a3824a26d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/21cf95bb3e932dbf336eb6a3824a26d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f3b90d56cf84a14f972365cdca227498/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f3b90d56cf84a14f972365cdca227498/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/bdba99a3d90f2639494be7bd0f6f8fea/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/bdba99a3d90f2639494be7bd0f6f8fea/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/40536ead606c855524e0d6bd7612f2c9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/40536ead606c855524e0d6bd7612f2c9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4230b3e1be710e038b01cd1ff24f2ffd/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/4230b3e1be710e038b01cd1ff24f2ffd/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f49fcc87b079857c4805c87828f9c1de/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f49fcc87b079857c4805c87828f9c1de/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3208cbc2238fceb9e06355aabc71ea6d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3208cbc2238fceb9e06355aabc71ea6d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2ec76d33eeb1cc90dc4c34b60c1cd58a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/2ec76d33eeb1cc90dc4c34b60c1cd58a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/067ebbd2f948752287861f6e0e517c45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/067ebbd2f948752287861f6e0e517c45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/939450ca25ab8bed90576559dc7f2061/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/939450ca25ab8bed90576559dc7f2061/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f47a14935b31f02d963434435af15b03/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/f47a14935b31f02d963434435af15b03/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1a2e4c9eacd279e474d6f7c3e84dd752/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1a2e4c9eacd279e474d6f7c3e84dd752/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/862ad29a78882ef31a7ec5eabe4ecfc9/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/862ad29a78882ef31a7ec5eabe4ecfc9/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/005032cd9f4d50e70c7400942ab16d5e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/005032cd9f4d50e70c7400942ab16d5e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3a4fd7551b385343a7d759bbd3fd8a48/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/3a4fd7551b385343a7d759bbd3fd8a48/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/404a975948078a719f9c134b6fe81413/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/404a975948078a719f9c134b6fe81413/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1c9126e480e105e1f600b51e4b878134/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/1c9126e480e105e1f600b51e4b878134/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/32487eb5e9265b63778961606a1124f1/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/32487eb5e9265b63778961606a1124f1/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9d1f8bdd58747925f2c4cde24236282/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9d1f8bdd58747925f2c4cde24236282/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8ef736f412be000347b4ccc94d223e0f/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/8ef736f412be000347b4ccc94d223e0f/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/9173b4ffdfe1f066baa44d687cc322eb/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d38f70ebdba1f7b11f693f69e5230300/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d38f70ebdba1f7b11f693f69e5230300/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/6a4e0e4832ec13c72f3ed4d953e75e0e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/6a4e0e4832ec13c72f3ed4d953e75e0e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d4f53989506c726070d2909d4eb82f93/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d4f53989506c726070d2909d4eb82f93/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9c2d33f29511a92d9ec1144c8197280/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/a9c2d33f29511a92d9ec1144c8197280/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/ae3688ddcf09e90543d21fae2dc25708/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/ae3688ddcf09e90543d21fae2dc25708/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/519ca7009dee33c636c5ec80eb0ddd16/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/519ca7009dee33c636c5ec80eb0ddd16/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/86f2d91100cb02f177f88d964ae4cd7f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/86f2d91100cb02f177f88d964ae4cd7f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/34e3f922332c9d7cefd7a72659a81cc7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/34e3f922332c9d7cefd7a72659a81cc7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/882f34b367c7b71c0c004dbd9a3f53c5/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/882f34b367c7b71c0c004dbd9a3f53c5/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/fd4b99719c218abc3105e0ec51b6ed07/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/fd4b99719c218abc3105e0ec51b6ed07/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/673e09517efda950c78bf726af11a965/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/673e09517efda950c78bf726af11a965/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/69eabccaac8105104fe0ef53a4a98dd0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/69eabccaac8105104fe0ef53a4a98dd0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e6ad7154708989d2f2affd4a121e6717/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e6ad7154708989d2f2affd4a121e6717/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:shared] /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [:shared] /Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/e30c4f454d9fe2163c5a969794e1ff47/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

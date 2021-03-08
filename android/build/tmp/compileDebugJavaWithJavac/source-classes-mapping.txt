@@ -1,0 +1,10 @@
+com/taboo/android/databinding/ActivityMainBinding.java
+ com.taboo.android.databinding.ActivityMainBinding
+com/taboo/android/databinding/RowSomeItemBinding.java
+ com.taboo.android.databinding.RowSomeItemBinding
+com/taboo/android/databinding/FragmentFeature1Binding.java
+ com.taboo.android.databinding.FragmentFeature1Binding
+com/taboo/android/BuildConfig.java
+ com.taboo.android.BuildConfig
+com/taboo/android/databinding/FragmentFeature2Binding.java
+ com.taboo.android.databinding.FragmentFeature2Binding

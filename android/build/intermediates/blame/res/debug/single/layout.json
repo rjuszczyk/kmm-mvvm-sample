@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_some_item.xml",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/row_some_item.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_feature2.xml",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/fragment_feature2.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_feature1.xml",
+        "source": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/android/src/main/res/layout/fragment_feature1.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d71747602af67d081959d06d3430eb0f/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d71747602af67d081959d06d3430eb0f/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d71747602af67d081959d06d3430eb0f/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d71747602af67d081959d06d3430eb0f/material-1.2.1/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/shared/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/radoslaw.juszczyk/.gradle/caches/transforms-2/files-2.1/d71747602af67d081959d06d3430eb0f/material-1.2.1/res/xml/standalone_badge.xml"
+    }
+]

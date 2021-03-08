@@ -1,0 +1,7 @@
+const val kotlin_version = "1.4.0"
+const val kotlin_serialization = "1.0.0-RC"
+const val kotlin_coroutines = "1.3.9-native-mt"
+const val ktor = "1.4.0"
+const val multiplatform_settings = "0.6.1"
+const val klock = "1.12.0"
+const val kodein = "7.1.0-master-88"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/feature1">
+    <fragment
+        android:id="@+id/feature1"
+        android:name="com.taboo.android.feature1.Feature1Fragment"
+        android:label="Feature 1"
+        >
+        <action
+            android:id="@+id/action_feature1_to_feature2"
+            app:destination="@id/feature2"
+          />
+    </fragment>
+
+    <fragment
+        android:id="@+id/feature2"
+        android:name="com.taboo.android.feature2.Feature2Fragment"
+        android:label="Feature 2"
+        >
+        <argument
+            android:name="someItemId"
+            app:argType="com.taboo.shared.domain.SomeItemId"
+            />
+    </fragment>
+
+</navigation>
