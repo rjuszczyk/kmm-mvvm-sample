@@ -15,8 +15,6 @@ class SomeItemRepositoryImpl(
 
     override suspend fun loadSomeItems(): List<SomeItem> {
         val players = playerQueries.selectAll().executeAsList()
-
-
         return mutableListOf<SomeItem>().apply {
             addAll(someItemsService.getSomeItems().items.map {
                 SomeItem(

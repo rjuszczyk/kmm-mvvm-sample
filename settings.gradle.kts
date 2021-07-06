@@ -13,5 +13,3 @@ rootProject.name = "Taboo"
 include(":android")
 include(":shared")
 
-enableFeaturePreview("GRADLE_METADATA")
-

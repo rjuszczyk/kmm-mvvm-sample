@@ -1,1 +1,1 @@
-/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/buildSrc/build/classes/kotlin/main/ExtensionsKt.class:/Users/radoslaw.juszczyk/Documents/AndroidProjects/Taboo/buildSrc/build/classes/kotlin/main/VersionsKt.class
+/Users/r.juszczyk/IdeaProjects/kmm-mvvm-sample/buildSrc/build/classes/kotlin/main/ExtensionsKt.class:/Users/r.juszczyk/IdeaProjects/kmm-mvvm-sample/buildSrc/build/classes/kotlin/main/VersionsKt.class

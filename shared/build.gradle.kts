@@ -96,7 +96,7 @@ kotlin {
                     version { strictly(kotlin_serialization) }
                 }
                 implementation("io.ktor:ktor-client-core:$ktor")
-                implementation("io.ktor:ktor-client-serialization:$ktor") { exclude(group="org.jetbrains.kotlinx", module = "kotlinx-serialization-core-jvm") }
+                implementation("io.ktor:ktor-client-serialization:$ktor")
 
 //                implementation("com.squareup.sqldelight:coroutines-extensions:1.4.4") {
 //                    exclude(group="org.jetbrains.kotlinx", module = "kotlinx-coroutines-core")
@@ -112,10 +112,10 @@ kotlin {
         }
         val androidMain by getting {
             dependencies {
-                implementation("com.google.android.material:material:1.2.1")
+                implementation("com.google.android.material:material:1.4.0")
 
                 implementation("io.ktor:ktor-client-android:$ktor")
-                implementation("com.squareup.sqldelight:android-driver:1.4.4")
+                implementation("com.squareup.sqldelight:android-driver:1.5.0")
 
             }
         }
@@ -128,7 +128,7 @@ kotlin {
         val iosMain by getting {
             dependencies {
                 implementation("io.ktor:ktor-client-ios:$ktor")
-                implementation("com.squareup.sqldelight:native-driver:1.4.4")
+                implementation("com.squareup.sqldelight:native-driver:1.5.0")
             }
         }
         val iosTest by getting
