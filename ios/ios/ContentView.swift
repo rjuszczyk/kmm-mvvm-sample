@@ -10,8 +10,12 @@ struct Feature1View: View {
     @ObservedObject var feature1state = Feature1State()
     private var feature1ViewModel: IFeature1ViewModel!
     
-    init(navigateToSomeItemDetails: @escaping (SomeItemId)->Void) {
-        feature1ViewModel = (UIApplication.shared.delegate as! AppDelegate).iosApp.provideFeature1ViewModel(
+    init(appDelegate: AppDelegate, navigateToSomeItemDetails: @escaping (SomeItemId)->Void) {
+        
+        let iosApp = appDelegate.iosApp
+        
+        
+        feature1ViewModel = iosApp.provideFeature1ViewModel(
             navigateToSomeItemDetails: navigateToSomeItemDetails,
             consumeState: consumeState
         )
@@ -47,6 +51,7 @@ struct Feature1View: View {
             default:
                 EmptyView()
         }
+        EmptyView()
     }
 }
 
@@ -59,8 +64,8 @@ struct Feature2View: View {
     @ObservedObject var feature2State = Feature2State()
     private var feature2ViewModel: IFeature2ViewModel!
     
-    init(closeThisScreenAndNavigateToPrevious: @escaping ()->Void, someItemId: SomeItemId) {
-        feature2ViewModel = (UIApplication.shared.delegate as! AppDelegate).iosApp.provideFeature2ViewModel(
+    init(appDelegate: AppDelegate, closeThisScreenAndNavigateToPrevious: @escaping ()->Void, someItemId: SomeItemId) {
+        feature2ViewModel = appDelegate.iosApp.provideFeature2ViewModel(
             closeThisScreenAndNavigateToPrevious: closeThisScreenAndNavigateToPrevious,
             consumeState: consumeState,
             someItemId: someItemId
@@ -96,16 +101,22 @@ struct Feature2View: View {
 
 struct ContentView: View {
     @State private var displayedSomeItemId: SomeItemId? = nil
+    let appDelegate: AppDelegate
+    
+    
+    init(appDelegate: AppDelegate) {
+        self.appDelegate = appDelegate
+    }
     
     var body: some View {
         NavigationView {
             
             if(displayedSomeItemId == nil) {
-                Feature1View(navigateToSomeItemDetails: { someItemId in
+                Feature1View(appDelegate:appDelegate, navigateToSomeItemDetails: { someItemId in
                     self.displayedSomeItemId = someItemId
                 })
             } else {
-                Feature2View(closeThisScreenAndNavigateToPrevious: {
+                Feature2View(appDelegate:appDelegate, closeThisScreenAndNavigateToPrevious: {
                     self.displayedSomeItemId = nil
                 }, someItemId: displayedSomeItemId!
                 )
@@ -124,6 +135,7 @@ struct Item : Identifiable {
 struct ContentView_Previews: PreviewProvider {
     
     static var previews: some View {
-        ContentView()
+        //ContentView()
+        EmptyView()
     }
 }

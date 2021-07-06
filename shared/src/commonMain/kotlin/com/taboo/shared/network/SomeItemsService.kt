@@ -9,6 +9,6 @@ class SomeItemsService internal constructor(
 ){
 
     suspend fun getSomeItems(): SomeItemsResponse {
-        return httpClient.get("https://staging.radoair.rjuszczyk.pl/someItems")
+        return httpClient.get("https://staging.radoair.rjuszczyk.com/someItems")
     }
 }
